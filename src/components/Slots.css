@@ -1,0 +1,27 @@
+
+.slotZone{
+    margin-left: 20px;
+    display:inline-flex;
+    border: 2px solid black;
+    width:fit-content;
+    padding: 5px 5px 5px 5px;
+}
+
+.AM{
+    padding: 5px 5px 5px 5px;
+    border-right: 3px solid grey;
+}
+
+.PM{
+    padding: 5px 5px 5px 5px;
+    margin-left: 5px;
+}
+.slots{
+    padding: 5px 5px 5px 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.slots:hover{
+    background-color: grey;
+}
+
