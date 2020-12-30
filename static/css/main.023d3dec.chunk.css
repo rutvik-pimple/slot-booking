@@ -1,0 +1,2 @@
+body{display:flex;flex-direction:column}.slotZone{margin-left:20px;display:inline-flex;border:2px solid #000;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;padding:5px}.AM{border-right:3px solid grey}.AM,.PM{padding:5px}.PM{margin-left:5px}.slots{padding:5px;border:1px solid #000;border-radius:5px}.slots:hover{background-color:grey}.Form{margin-top:20px;display:flex;flex-direction:row}.btn{background-color:#188bf6;padding:5px;border-radius:5px;border:1px solid #000;margin-top:50px;margin-left:50px}
+/*# sourceMappingURL=main.023d3dec.chunk.css.map */
