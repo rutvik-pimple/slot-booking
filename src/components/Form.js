@@ -24,6 +24,10 @@ function Form() {
     }
 
     function addToDb(){
+        if(selectedTime == null){
+            setErrorMessage("plz select slot time")
+            return
+        }
         const dateTime = `${selectedDate.toLocaleDateString().replace("/","-").replace("/","-")}T${selectedTime}`
         let obj;
 
